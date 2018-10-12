@@ -2,7 +2,7 @@
 ![logo_banner](/assets/hacktoberfest_banner.png)
 
 # Getting Started
-Sign Up for Hacktoberfest here : https://hacktoberfest.digitalocean.com/
+Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 # Contributors
 ### John Doe (Example)
