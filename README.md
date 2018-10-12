@@ -4,6 +4,8 @@
 ![logo_banner](/assets/hacktoberfest_banner.png)
 
 # Getting Started
+Win a t-shirt by making five pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub, not just the ones highlighted. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won't count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
+
 Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ## Finding your first Pull Request
