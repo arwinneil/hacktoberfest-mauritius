@@ -40,3 +40,5 @@ Add your name & social network links to this repository!
 
 ### Haidar Dargaye
 -  [GitHub](github.com/haidarknightfury)
+
+### Rishi
