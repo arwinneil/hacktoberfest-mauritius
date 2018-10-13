@@ -1,4 +1,7 @@
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg) ![MadeinMoris](https://img.shields.io/badge/Made%20in-Moris-green.svg) [![GitHub forks](https://img.shields.io/github/forks/arwinneil/hacktoberfest-mauritius.svg)](https://github.com/arwinneil/hacktoberfest-mauritius/network)
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)  [![GitHub forks](https://img.shields.io/github/forks/arwinneil/hacktoberfest-mauritius.svg)](https://github.com/arwinneil/hacktoberfest-mauritius/network) 
+[![Event](https://img.shields.io/badge/event-meetup-red.svg)](https://www.meetup.com/MauritiusSoftwareCraftsmanshipCommunity/events/254965197/)
+[![Event](https://img.shields.io/badge/hosted%20by-Extension%20Interactive-blue.svg)](http://extension-interactive.com/)
+![MadeinMoris](https://img.shields.io/badge/Made%20in-Moris-green.svg)
 
 This [repository](https://github.com/arwinneil/hacktoberfest-mauritius) is built for the purpose of encouraging your contributions, big or small. PRs are welcome!
 
