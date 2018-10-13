@@ -42,3 +42,5 @@ Add your name & social network links to this repository!
 -  [GitHub](github.com/haidarknightfury)
 
 ### Rishi
+- [GitHub](github.com)
+- [Twitter](twitter.com)
