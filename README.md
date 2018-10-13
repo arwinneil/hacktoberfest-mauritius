@@ -20,38 +20,38 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 # Attendance
 Add your name & social network links to this repository!
 ### John Doe (Example)
- - [Link 1](www.example.com)
- - [Link 2](www.example.com) 
- - [Link 3](www.example.com)
+ - [Link 1](https://www.example.com)
+ - [Link 2](https://www.example.com) 
+ - [Link 3](https://www.example.com)
 
 ### Arwin Neil Baichoo
-- [GitHub](github.com/arwinneil)
-- [Twitter](twitter.com/arwinneil)
+- [GitHub](https://github.com/arwinneil)
+- [Twitter](https://twitter.com/arwinneil)
 
 ### Nythiennzo
-- [GitHub](github.com/Nythiennzo)
-- [Twitter](twitter.com/Nythiennzo)
+- [GitHub](https://github.com/Nythiennzo)
+- [Twitter](https://twitter.com/Nythiennzo)
 
 ### Humeira
-- [GitHub](github.com/Humeira)
-- [Twitter](twitter.com/echdee)
+- [GitHub](https://github.com/Humeira)
+- [Twitter](https://twitter.com/echdee)
 
 ### Haidar Dargaye
--  [GitHub](github.com/haidarknightfury)
+-  [GitHub](https://github.com/haidarknightfury)
 
 ### Rishi
 
 ### EVad
-- [GitHub](github.com/azezezaaa)
-- [Twitter](twitter.com/azezezaaa)
+- [GitHub](https://github.com/azezezaaa)
+- [Twitter](https://twitter.com/azezezaaa)
 
 ### Kavi
-- [GitHub](github.com/KnightRag)
-- [Twitter](twitter.com/Knight_Rag)
+- [GitHub](https://github.com/KnightRag)
+- [Twitter](https://twitter.com/Knight_Rag)
 
 ### Shahoor
-- [GitHub](github.com/El-Psy-Congrooo)
+- [GitHub](https://github.com/El-Psy-Congrooo)
 
 ### Saamiyah
-- [GitHub](github.com/saamiyah)
-- [Twitter](twitter.com/smearthelove)
+- [GitHub](https://github.com/saamiyah)
+- [Twitter](https://twitter.com/smearthelove)
