@@ -33,3 +33,7 @@ Add your name & social network links to this repository!
 ### Nythiennzo
 - [GitHub](github.com/Nythiennzo)
 - [Twitter](twitter.com/Nythiennzo)
+
+### Humeira
+- [GitHub](github.com/Humeira)
+- [Twitter](twitter.com/echdee)
