@@ -1,5 +1,4 @@
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg) 
-[![GitHub forks](https://img.shields.io/github/forks/arwinneil/hacktoberfest-mauritius.svg)](https://github.com/arwinneil/hacktoberfest-mauritius/network) 
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)![MadeinMoris](https://img.shields.io/badge/Made%20in-Moris-green.svg) [![GitHub forks](https://img.shields.io/github/forks/arwinneil/hacktoberfest-mauritius.svg)](https://github.com/arwinneil/hacktoberfest-mauritius/network) 
 
 ![banner](/assets/banner.jpg)
 ![logo_banner](/assets/hacktoberfest_banner.png)
@@ -18,8 +17,7 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 ## Useful Links
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-
-# Contribute
+# Attendance
 Add your name & social network links to this repository!
 ### John Doe (Example)
  - [Link 1](www.example.com)
@@ -30,7 +28,6 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/arwinneil)
 - [Twitter](twitter.com/arwinneil)
 
-
 ### Nythiennzo
 - [GitHub](github.com/Nythiennzo)
 - [Twitter](twitter.com/Nythiennzo)
@@ -38,7 +35,6 @@ Add your name & social network links to this repository!
 ### Humeira
 - [GitHub](github.com/Humeira)
 - [Twitter](twitter.com/echdee)
-
 
 ### Haidar Dargaye
 -  [GitHub](github.com/haidarknightfury)
