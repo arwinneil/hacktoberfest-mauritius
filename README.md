@@ -29,15 +29,16 @@ Add your name & social network links to this repository!
 - [GitHub](github.com/arwinneil)
 - [Twitter](twitter.com/arwinneil)
 
-
 ### Nythiennzo
 - [GitHub](github.com/Nythiennzo)
 - [Twitter](twitter.com/Nythiennzo)
 
+### Nayar
+- [GitHub](github.com/Nayar)
+
 ### Humeira
 - [GitHub](github.com/Humeira)
 - [Twitter](twitter.com/echdee)
-
 
 ### Haidar Dargaye
 -  [GitHub](github.com/haidarknightfury)
@@ -53,4 +54,4 @@ Add your name & social network links to this repository!
 - [Twitter](twitter.com/Knight_Rag)
 
 ### Shahoor
--[GitHub](github.com/El-Psy-Congrooo)
+- [GitHub](github.com/El-Psy-Congrooo)
