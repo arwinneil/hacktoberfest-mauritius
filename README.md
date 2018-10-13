@@ -35,6 +35,7 @@ Add your name & social network links to this repository!
 - [Twitter](twitter.com/Nythiennzo)
 
 
+
 ### Humeira
 - [GitHub](github.com/Humeira)
 - [Twitter](twitter.com/echdee)
@@ -47,3 +48,7 @@ Add your name & social network links to this repository!
 ### EVad
 - [GitHub](github.com/azezezaaa)
 - [Twitter](twitter.com/azezezaaa)
+
+### Kavi
+- [GitHub](github.com/KnightRag)
+- [Twitter](twitter.com/Knight_Rag)
