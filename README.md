@@ -35,6 +35,20 @@ Add your name & social network links to this repository!
 - [Twitter](twitter.com/Nythiennzo)
 
 
+
+### Humeira
+- [GitHub](github.com/Humeira)
+- [Twitter](twitter.com/echdee)
+
+### Haidar Dargaye
+-  [GitHub](github.com/haidarknightfury)
+
+### Rishi
+
+### EVad
+- [GitHub](github.com/azezezaaa)
+- [Twitter](twitter.com/azezezaaa)
+
 ### Kavi
 - [GitHub](github.com/KnightRag)
 - [Twitter](twitter.com/Knight_Rag)
