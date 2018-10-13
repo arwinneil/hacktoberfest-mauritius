@@ -15,7 +15,7 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 ---
 
 # Finding your first Pull Request
-On your way to make your first pull request? Add your name to our guestbook following the template!
+On your way to make your first pull request? Add your name to our guestbook section, check out [CONTRIBUTING.md](CONTRIBUTING.md) for more information!
 
 Find repositories to make meaningful contributions to on the links below:
 
