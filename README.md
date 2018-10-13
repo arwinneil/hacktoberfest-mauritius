@@ -10,8 +10,12 @@ This [repository](https://github.com/arwinneil/hacktoberfest-mauritius) is built
 
 Win a t-shirt by making five pull requests (PRs) between October 1–31 in any timezone. PRs can be to any public repo on GitHub. The PR must contain commits you made yourself. PRs reported by maintainers as spam or that are automated will be marked as invalid and won't count towards the shirt. This year, the first 50,000 of you can earn a T-shirt (compared with 30,000 in 2017).
 
-Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
+__Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)__
 
+### More organisations participating to Hacktoberfest
+- Microsoft : [https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)
+- Hasura : [https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560)
+- NativeScript : [https://www.nativescript.org/blog/hacktoberfest-is-here](https://www.nativescript.org/blog/hacktoberfest-is-here)
 ---
 # Our Local Event
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Hacktoberfest?src=hash&amp;ref_src=twsrc%5Etfw">#Hacktoberfest</a> local event starting in <a href="https://twitter.com/hashtag/Mauritius?src=hash&amp;ref_src=twsrc%5Etfw">#Mauritius</a>!<a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> <a href="https://twitter.com/digitalocean?ref_src=twsrc%5Etfw">@digitalocean</a> <a href="https://twitter.com/twilio?ref_src=twsrc%5Etfw">@twilio</a><a href="https://twitter.com/hashtag/techmeetup?src=hash&amp;ref_src=twsrc%5Etfw">#techmeetup</a> <a href="https://twitter.com/MSCraftsman?ref_src=twsrc%5Etfw">@MSCraftsman</a> <a href="https://t.co/EGZWpf0ymn">pic.twitter.com/EGZWpf0ymn</a></p>&mdash; Arwin Neil Baichoo (@arwinneil) <a href="https://twitter.com/arwinneil/status/1051001617670123523?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
