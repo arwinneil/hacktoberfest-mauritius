@@ -16,6 +16,7 @@ __More organisations participating to Hacktoberfest__
 - Microsoft : [https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)
 - Hasura : [https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560)
 - NativeScript : [https://www.nativescript.org/blog/hacktoberfest-is-here](https://www.nativescript.org/blog/hacktoberfest-is-here)
+- SendGrid : [https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
 
 ---
 # Our Local Event
