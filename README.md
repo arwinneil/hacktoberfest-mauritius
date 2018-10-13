@@ -59,6 +59,8 @@ Find repositories to make meaningful contributions to on the links below:
 -  [GitHub](https://github.com/haidarknightfury)
 
 ### Rishi
+- [GitHub](github.com)
+- [Twitter](twitter.com)
 
 ### EVad
 - [GitHub](https://github.com/azezezaaa)
@@ -81,3 +83,4 @@ Find repositories to make meaningful contributions to on the links below:
  - [Link 1](https://www.example.com)
  - [Link 2](https://www.example.com) 
  - [Link 3](https://www.example.com)
+
