@@ -53,7 +53,7 @@ Add your name & social network links to this repository!
 - [Twitter](twitter.com/Knight_Rag)
 
 ### Shahoor
--[GitHub](github.com/El-Psy-Congrooo)
+- [GitHub](github.com/El-Psy-Congrooo)
 
 ### Saamiyah
 - [GitHub](github.com/saamiyah)
