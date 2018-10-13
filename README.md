@@ -12,7 +12,7 @@ Win a t-shirt by making five pull requests (PRs) between October 1–31 in any t
 
 __Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)__
 
-### More organisations participating to Hacktoberfest
+__More organisations participating to Hacktoberfest__
 - Microsoft : [https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)
 - Hasura : [https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560)
 - NativeScript : [https://www.nativescript.org/blog/hacktoberfest-is-here](https://www.nativescript.org/blog/hacktoberfest-is-here)
