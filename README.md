@@ -8,6 +8,7 @@ Win a t-shirt by making five pull requests (PRs) between October 1–31 in any t
 Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 ---
+# Our Local Event
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hacktoberfest 2018 going on! <a href="https://twitter.com/hashtag/Hacktoberfest?src=hash&amp;ref_src=twsrc%5Etfw">#Hacktoberfest</a> <a href="https://twitter.com/hashtag/Mauritius?src=hash&amp;ref_src=twsrc%5Etfw">#Mauritius</a> <a href="https://twitter.com/hashtag/MSCC?src=hash&amp;ref_src=twsrc%5Etfw">#MSCC</a> <a href="https://t.co/fduVo1o1oB">pic.twitter.com/fduVo1o1oB</a></p>&mdash; Nirvan Pagooah (@nirvanpagooah) <a href="https://twitter.com/nirvanpagooah/status/1051046806598111233?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -26,6 +27,8 @@ Find repositories to make meaningful contributions to on the links below:
 
 ## Useful Links
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+---
 
 # Attendance
 ### Arwin Neil Baichoo
