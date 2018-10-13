@@ -1,4 +1,4 @@
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)![MadeinMoris](https://img.shields.io/badge/Made%20in-Moris-green.svg) [![GitHub forks](https://img.shields.io/github/forks/arwinneil/hacktoberfest-mauritius.svg)](https://github.com/arwinneil/hacktoberfest-mauritius/network) 
+![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg) ![MadeinMoris](https://img.shields.io/badge/Made%20in-Moris-green.svg) [![GitHub forks](https://img.shields.io/github/forks/arwinneil/hacktoberfest-mauritius.svg)](https://github.com/arwinneil/hacktoberfest-mauritius/network) 
 
 ![banner](/assets/banner.jpg)
 ![logo_banner](/assets/hacktoberfest_banner.png)
