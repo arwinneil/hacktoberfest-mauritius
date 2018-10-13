@@ -11,9 +11,13 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hacktoberfest 2018 going on! <a href="https://twitter.com/hashtag/Hacktoberfest?src=hash&amp;ref_src=twsrc%5Etfw">#Hacktoberfest</a> <a href="https://twitter.com/hashtag/Mauritius?src=hash&amp;ref_src=twsrc%5Etfw">#Mauritius</a> <a href="https://twitter.com/hashtag/MSCC?src=hash&amp;ref_src=twsrc%5Etfw">#MSCC</a> <a href="https://t.co/fduVo1o1oB">pic.twitter.com/fduVo1o1oB</a></p>&mdash; Nirvan Pagooah (@nirvanpagooah) <a href="https://twitter.com/nirvanpagooah/status/1051046806598111233?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+---
 
+# Finding your first Pull Request
+On your way to make your first pull request? Add your name to our guestbook following the template!
 
-## Finding your first Pull Request
+Find repositories to make meaningful contributions to on the links below:
+
 - [Up For Grabs](https://up-for-grabs.net/)
 - [Issuehub.io](http://issuehub.io/)
 - [First Timers Only](https://www.firsttimersonly.com/)
@@ -24,12 +28,6 @@ Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Attendance
-Add your name & social network links to this repository!
-### John Doe (Example)
- - [Link 1](https://www.example.com)
- - [Link 2](https://www.example.com) 
- - [Link 3](https://www.example.com)
-
 ### Arwin Neil Baichoo
 - [GitHub](https://github.com/arwinneil)
 - [Twitter](https://twitter.com/arwinneil)
@@ -61,3 +59,10 @@ Add your name & social network links to this repository!
 ### Saamiyah
 - [GitHub](https://github.com/saamiyah)
 - [Twitter](https://twitter.com/smearthelove)
+
+# Guestbook
+
+### John Doe (Example)
+ - [Link 1](https://www.example.com)
+ - [Link 2](https://www.example.com) 
+ - [Link 3](https://www.example.com)
