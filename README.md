@@ -17,7 +17,7 @@ __More organisations participating to Hacktoberfest__
 - Hasura : [https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560)
 - NativeScript : [https://www.nativescript.org/blog/hacktoberfest-is-here](https://www.nativescript.org/blog/hacktoberfest-is-here)
 - SendGrid : [https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
-- Auth0 : [https://medium.com/typeforms-engineering-blog/get-involved-in-open-source-participate-to-hacktoberfest-with-typeform-278b4fa4cf19](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/)[https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/)
+- Auth0 : [https://medium.com/typeforms-engineering-blog/get-involved-in-open-source-participate-to-hacktoberfest-with-typeform-278b4fa4cf19](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/)
 - Typeform : [https://medium.com/typeforms-engineering-blog/get-involved-in-open-source-participate-to-hacktoberfest-with-typeform-278b4fa4cf19](https://medium.com/typeforms-engineering-blog/get-involved-in-open-source-participate-to-hacktoberfest-with-typeform-278b4fa4cf19)
 
 ---
