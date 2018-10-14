@@ -75,6 +75,10 @@ Find repositories to make meaningful contributions to on the links below:
 - [GitHub](https://github.com/saamiyah)
 - [Twitter](https://twitter.com/smearthelove)
 
+### Vanessa VChellen
+- [GitHub](https://github.com/vchellen)
+- [Twitter](https://twitter.com/VanessaChellen)
+
 # Guestbook
 
 ### John Doe (Example)
