@@ -51,33 +51,38 @@ Find repositories to make meaningful contributions to on the links below:
 - [GitHub](https://github.com/arwinneil)
 - [Twitter](https://twitter.com/arwinneil)
 
-### Nythiennzo
-- [GitHub](https://github.com/Nythiennzo)
-- [Twitter](https://twitter.com/Nythiennzo)
+### EVad
+- [GitHub](https://github.com/azezezaaa)
+- [Twitter](https://twitter.com/azezezaaa)
+
+### Jochen Kirstätter
+- [GitHub](https://github.com/jochenkirstaetter)
+- [Twitter](https://twitter.com/jkirstaetter)
+- [Blog](https://jochen.kirstaetter.name)  
+
+### Haidar Dargaye
+-  [GitHub](https://github.com/haidarknightfury)
 
 ### Humeira
 - [GitHub](https://github.com/Humeira)
 - [Twitter](https://twitter.com/echdee)
 
-### Haidar Dargaye
--  [GitHub](https://github.com/haidarknightfury)
-
-### Rishi
-
-### EVad
-- [GitHub](https://github.com/azezezaaa)
-- [Twitter](https://twitter.com/azezezaaa)
+### Nythiennzo
+- [GitHub](https://github.com/Nythiennzo)
+- [Twitter](https://twitter.com/Nythiennzo)
 
 ### Kavi
 - [GitHub](https://github.com/KnightRag)
 - [Twitter](https://twitter.com/Knight_Rag)
 
-### Shahoor
-- [GitHub](https://github.com/El-Psy-Congrooo)
+### Rishi
 
 ### Saamiyah
 - [GitHub](https://github.com/saamiyah)
 - [Twitter](https://twitter.com/smearthelove)
+
+### Shahoor
+- [GitHub](https://github.com/El-Psy-Congrooo)
 
 ### Vanessa VChellen
 - [GitHub](https://github.com/vchellen)
@@ -86,6 +91,6 @@ Find repositories to make meaningful contributions to on the links below:
 # Guestbook
 
 ### John Doe (Example)
- - [Link 1](https://www.example.com)
- - [Link 2](https://www.example.com) 
- - [Link 3](https://www.example.com)
+ - [GitHub](https://github.com/yourname)  
+ - [Twitter](https://twitter.com/yourhandle)  
+ - [Blog](https://www.example.com)  
