@@ -19,7 +19,7 @@ Suggested way to contribute :
 
 ````
 ### Your Name
- - [Link 1](https://www.example.com)
- - [Link 2](https://www.example.com) 
- - [Link 3](https://www.example.com)
+ - [GitHub](https://github.com/yourname)
+ - [Twitter](https://twitter.com/yourhandle) 
+ - [Blog](https://www.example.com)
 ````
