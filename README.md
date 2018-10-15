@@ -1,4 +1,4 @@
-![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)  [![GitHub forks](https://img.shields.io/github/forks/arwinneil/hacktoberfest-mauritius.svg)](https://github.com/arwinneil/hacktoberfest-mauritius/network) 
+[![Open Source Love](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-pink.svg)](https://github.com/arwinneil/hacktoberfest-mauritius)  [![GitHub forks](https://img.shields.io/github/forks/arwinneil/hacktoberfest-mauritius.svg)](https://github.com/arwinneil/hacktoberfest-mauritius/network) 
 [![Event](https://img.shields.io/badge/event-meetup-red.svg)](https://www.meetup.com/MauritiusSoftwareCraftsmanshipCommunity/events/254965197/)
 [![Event](https://img.shields.io/badge/hosted%20by-Extension%20Interactive-blue.svg)](http://extension-interactive.com/)
 ![MadeinMoris](https://img.shields.io/badge/Made%20in-Moris-green.svg)
@@ -12,13 +12,14 @@ Win a t-shirt by making five pull requests (PRs) between October 1–31 in any t
 
 __Sign Up for Hacktoberfest here : [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)__
 
-__More organisations participating to Hacktoberfest__
-- Microsoft : [https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)
-- Hasura : [https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560)
-- NativeScript : [https://www.nativescript.org/blog/hacktoberfest-is-here](https://www.nativescript.org/blog/hacktoberfest-is-here)
-- SendGrid : [https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
-- Auth0 : [https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/)
-- Typeform : [https://medium.com/typeforms-engineering-blog/get-involved-in-open-source-participate-to-hacktoberfest-with-typeform-278b4fa4cf19](https://medium.com/typeforms-engineering-blog/get-involved-in-open-source-participate-to-hacktoberfest-with-typeform-278b4fa4cf19)
+# More organisations participating to Hacktoberfest
+- Twilio: [Complete 'Getting Started' in TwilioQuest](https://www.twilio.com/quest)  
+- Microsoft: [We’re joining Hacktoberfest 2018](https://open.microsoft.com/2018/09/18/hacktoberfest-2018-microsoft/)
+- Hasura: [Announcing Hacktoberfest 2018 with Hasura](https://blog.hasura.io/announcing-hacktoberfest-2018-with-hasura-621045dc9560)
+- NativeScript: [Hacktoberfest is Here!](https://www.nativescript.org/blog/hacktoberfest-is-here)
+- SendGrid: [Hacktoberfest 2018: Hack on SendGrid Open Source Projects](https://sendgrid.com/blog/hacktoberfest-2018-hack-on-sendgrid-open-source-projects/)
+- Auth0: [Celebrate Hacktoberfest 2018 with Auth0!](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/)
+- Typeform: [Get involved in open source, participate to Hacktoberfest with Typeform](https://medium.com/typeforms-engineering-blog/get-involved-in-open-source-participate-to-hacktoberfest-with-typeform-278b4fa4cf19)
 
 ---
 
