@@ -91,6 +91,9 @@ Find repositories to make meaningful contributions to on the links below:
 - [GitHub](https://github.com/vchellen)
 - [Twitter](https://twitter.com/VanessaChellen)
 
+### Yuvraj Seegolam
+- [GitHub](https://github.com/yuvraj108c)
+
 # Guestbook
 
 ### John Doe (Example)
